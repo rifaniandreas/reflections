@@ -10,3 +10,5 @@ git reset --hard
 git checkout master - to make current checkout version the master
 How can you use the staging area to make sure you have one commit per logical change?
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+How do the diagrams help you visualize the branch structure?
+git checkout -b <new_branch_name> to combine git branch <name> and git checkout <name>
