@@ -9,3 +9,4 @@ git diff --staged
 git reset --hard
 git checkout master - to make current checkout version the master
 How can you use the staging area to make sure you have one commit per logical change?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
